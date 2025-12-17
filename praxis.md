@@ -10,3 +10,6 @@
 2025-12-15 13:29 apollosuite-Implemented CRUD operations for Grades
 2025-12-16 07:12 apollosuite-Add custom permission to check if user is a memeber of a school, implement Stream CRUD
 2025-12-16 17:58 apollosuite-Implement AcademicYear and Term CRUD
+2025-12-17 08:13 fgtrailers-Change calendear first day to Monday
+2025-12-17 07:52 fgtrailers-Update trailer form to allow user defined trailer names
+2025-12-17 21:16 update resume - [github](https://github.com/NaftaliHolland/NaftaliHolland/commit/49b4ce8befd33f91b24f51ed53235f95c81db0b8)
