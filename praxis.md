@@ -31,3 +31,5 @@
 2026-02-03 20:47 fgTrailers-Host backend and frontend on Railway - [Railway](https://railway.com/project/d3c8fad2-1784-4c8e-9536-1f6d6f2668d9?environmentId=eccb3a7f-d756-449f-bb34-370f7488dab9).
 2026-02-12 15:14 Transtar-type and print learners coucil list and 2026 KEPSEA target
 2026-02-12 15:14 fgTrailers-replace Celery with django-q2 for background and scheduled tasks - [github](https://github.com/NaftaliHolland/fg-trailers-rental-management/commit/a5a3e9dfb3a6923bf2ad024771784437652a7950)
+2026-02-13 09:31 fgTrailers-redesign invoice - [github](https://github.com/NaftaliHolland/fg-trailers-rental-management/commit/7ccb522f26803f93de09e105f83110d98d39d5e1)
+2026-02-15 17:34 fgTrailers-redesign contract template [github](https://github.com/NaftaliHolland/fg-trailers-rental-management/commit/1b8fbd47b3e8778af981adaa6e6646d4f3e6429b)
