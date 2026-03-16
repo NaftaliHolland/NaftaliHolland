@@ -9,7 +9,7 @@
 </p> -->
 
 <!-- About Me Section -->
-### 🧭 About Me
+### About Me
 I'm a junior software engineer who enjoys building web applications with Python, Django, React, Next.js and TypeScript.
 
 I'm especially interested in backend systems, clean architecture, and understanding how the pieces of a system fit together.
@@ -19,7 +19,7 @@ Most of my time is spent building projects, learning new things, and getting bet
 ---
 
 <!-- Skills Section -->
-### 🧰 Tech Stack
+### Tech Stack
 Frontend
 React · NextJs · JavaScript · Typescript · HTML/CSS
 
