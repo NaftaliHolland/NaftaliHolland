@@ -7,7 +7,6 @@
 <!-- <p align="center">
   <em>“Craftsmanship is not just about writing code, it’s about caring deeply about what you build.”</em>
 </p> -->
----
 
 <!-- About Me Section -->
 ### 🧭 About Me
